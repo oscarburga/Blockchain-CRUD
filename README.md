@@ -20,7 +20,7 @@ I no longer have the original project files since I changed computers. I could o
 the final version, but I thought it was a cool little project and wanted to have it public on my GitHub,
 so that is why this repository exists and has no commits.
 
-* The folder "go" you'll find all the source code for the blockchain network. 
+* The folder "go" contains all the source code for the blockchain network. 
 * The folder "TF-back-final" contains the source code for the back-end server of the website.
 * The source code for the website's front end was made mostly by my teammates and can be found on one of 
 their profiles. [Link](https://github.com/ChristianEspirituCueva/React-Front).
